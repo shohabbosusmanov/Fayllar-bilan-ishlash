@@ -1,0 +1,24 @@
+{
+    "Malumotlar" : [
+        {
+            "Ism": "Ali",
+            "Familiya": "Valiyev",
+            "ID": 1
+        },
+        {
+            "Ism": "Ahmat",
+            "Familiya": "Sobirov",
+            "ID": 88
+        },
+        {
+            "Ism": "Bekzod",
+            "Familiya": "Azimov",
+            "ID": 165
+        },
+        {
+            "Ism": "Asilbek",
+            "Familiya": "Fozilov",
+            "ID": 1986
+        }
+    ]
+}
